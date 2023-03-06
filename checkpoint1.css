@@ -1,0 +1,133 @@
+.box{
+    display:block;
+    justify-content: center;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 20px;
+    height:720px;
+    width:90%;
+    background-color: brown;
+}
+.header{
+    border:2px solid black;
+    margin:15px;
+    border-radius:5px;
+    width:70%;
+    margin-left: 15%;
+}
+.buttons{
+    margin:10px;
+    color:red;
+    background: blue;
+    font-weight: bold;
+}
+.buttons:hover{
+    color:aqua;
+    background: black;
+    font-weight: bold;
+}
+.tags1{
+    text-decoration: none;
+    color:lightgreen;
+    margin:15px;
+    display:block;
+    margin-right:30px;
+}
+.tags1:hover{
+    text-decoration: none;
+    color:aqua;
+    
+}
+.image1{
+    height: 40px;
+    width:40px;
+    margin-right:12px;
+    margin-top: 15px;
+}
+.image1:hover {
+    transform: scale(4);
+    filter: brightness(75%);
+    transform: rotate(9720deg);
+    transition: 10s;
+  }
+
+.para{
+    color:aqua;
+    margin-bottom: 20px;
+    margin:10px;
+}
+
+.para1{
+    color:yellowgreen;
+    margin:10px;
+    margin-bottom: 20px;
+}
+.footer{
+    display:flex;
+    justify-content: center;
+    text-align: bottom;
+    margin-top:0px;
+    margin-left: 20px;
+    color:whitesmoke;
+    font-weight: bold;
+}
+.a{
+    display:block;
+    margin:15px;
+    margin-left: 41%;
+}
+.b{
+    
+    margin:15px;
+    margin-left: 1%;
+    margin-right: 63px;
+}
+.c{
+    display:block;
+    margin:20px;
+    margin-left: 41%;
+}
+.d{
+    display:block;
+    margin:20px;
+    margin-left: 41%;
+    
+}
+.e{
+    display:block;
+    margin:20px;
+    margin-left: 41%;
+    
+}
+.f{
+    display:block;
+    margin:20px;
+    margin-left: 41%;
+    
+}
+.g{
+    display:block;
+    margin:20px;
+    margin-left: 41%;
+    
+}
+.h{
+    display:block;
+    margin:20px;
+    margin-left: 41%;
+}
+.i{
+    
+    margin:20px;
+    margin-left: 1%;
+    margin-right:51px;
+}
+.box2{
+    border:2px solid black;
+    border-radius: 2px;
+    width:70%;
+    margin-left: 15%;
+    height:87%;
+    border-radius:5px;
+}
+
